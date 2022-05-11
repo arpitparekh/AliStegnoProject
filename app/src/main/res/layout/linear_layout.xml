@@ -9,7 +9,6 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Hello"
-        android:fontFamily="@font/nunito_medium"
         android:padding="30dp"
         android:layout_marginStart="20dp"
         android:layout_marginTop="20dp"/>

@@ -8,6 +8,7 @@
 
     <TextView
         android:id="@+id/tvSomething"
+        android:fontFamily="@font/open_sans_medium"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:background="#FFEB3B"

@@ -5,10 +5,16 @@
       <map>
         <entry key="app/src/main/res/drawable/custom_shape.xml" value="0.136" />
         <entry key="app/src/main/res/layout/activity_ahmedabad.xml" value="0.264" />
+        <entry key="app/src/main/res/layout/activity_another_holder.xml" value="0.28958333333333336" />
         <entry key="app/src/main/res/layout/activity_first.xml" value="0.264" />
+        <entry key="app/src/main/res/layout/activity_holder.xml" value="0.28958333333333336" />
         <entry key="app/src/main/res/layout/activity_login.xml" value="0.4" />
         <entry key="app/src/main/res/layout/activity_pune.xml" value="0.28958333333333336" />
         <entry key="app/src/main/res/layout/activity_second.xml" value="0.28958333333333336" />
+        <entry key="app/src/main/res/layout/fragment_ahm.xml" value="0.28958333333333336" />
+        <entry key="app/src/main/res/layout/fragment_first.xml" value="0.2671875" />
+        <entry key="app/src/main/res/layout/fragment_raj.xml" value="0.28958333333333336" />
+        <entry key="app/src/main/res/layout/fragment_second.xml" value="0.28958333333333336" />
         <entry key="app/src/main/res/layout/layout_relative.xml" value="0.264" />
         <entry key="app/src/main/res/layout/linear_layout.xml" value="0.264" />
       </map>

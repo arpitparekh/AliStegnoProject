@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+        <variable
+            name="obj"
+            type="arpit.alistegnoproject.data_binding.Student" />
+    </data>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".data_binding.MyDataActivity">
+
+        <TextView
+            android:id="@+id/tvName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@{obj.name}"
+            android:layout_marginBottom="59dp"
+            app:layout_constraintBottom_toTopOf="@+id/tvAddress"
+            app:layout_constraintStart_toStartOf="@+id/tvAddress" />
+
+        <TextView
+            android:id="@+id/tvAddress"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@{obj.address}"
+            android:layout_marginStart="1dp"
+            android:layout_marginBottom="45dp"
+            app:layout_constraintBottom_toTopOf="@+id/tvAge"
+            app:layout_constraintStart_toStartOf="@+id/tvAge" />
+
+        <TextView
+            android:id="@+id/tvAge"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@{String.valueOf(obj.age)}"
+            android:layout_marginStart="1dp"
+            android:layout_marginBottom="42dp"
+            app:layout_constraintBottom_toTopOf="@+id/tvHeight"
+            app:layout_constraintStart_toStartOf="@+id/tvHeight" />
+
+        <TextView
+            android:id="@+id/tvHeight"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="173dp"
+            android:text="@{String.valueOf(obj.height)}"
+            android:layout_marginBottom="333dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>

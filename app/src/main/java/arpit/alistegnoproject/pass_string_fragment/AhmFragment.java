@@ -43,7 +43,6 @@ public class AhmFragment extends Fragment {
                         .replace(R.id.fcv_another_holder,RajFragment.class,bundle)
                         .addToBackStack("ahm")
                         .commit();
-
             }
         });
 

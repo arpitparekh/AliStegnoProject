@@ -4,10 +4,12 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="app/src/main/res/drawable/custom_shape.xml" value="0.136" />
+        <entry key="app/src/main/res/drawable/ic_login.xml" value="0.247" />
         <entry key="app/src/main/res/layout/activity_ahmedabad.xml" value="0.264" />
         <entry key="app/src/main/res/layout/activity_another_holder.xml" value="0.28958333333333336" />
         <entry key="app/src/main/res/layout/activity_authentication.xml" value="0.28958333333333336" />
         <entry key="app/src/main/res/layout/activity_cts.xml" value="0.536" />
+        <entry key="app/src/main/res/layout/activity_dialogs.xml" value="0.4" />
         <entry key="app/src/main/res/layout/activity_first.xml" value="0.264" />
         <entry key="app/src/main/res/layout/activity_holder.xml" value="0.28958333333333336" />
         <entry key="app/src/main/res/layout/activity_login.xml" value="0.4" />
@@ -23,6 +25,7 @@
         <entry key="app/src/main/res/layout/fragment_second.xml" value="0.28958333333333336" />
         <entry key="app/src/main/res/layout/layout_relative.xml" value="0.264" />
         <entry key="app/src/main/res/layout/linear_layout.xml" value="0.264" />
+        <entry key="app/src/main/res/layout/my_dialog.xml" value="0.2875" />
       </map>
     </option>
   </component>

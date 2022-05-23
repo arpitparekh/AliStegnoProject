@@ -4,33 +4,35 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@mipmap/ic_logo"
         android:label="@string/app_name"
-        android:roundIcon="@mipmap/ic_launcher_round"
+        android:roundIcon="@mipmap/ic_logo_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.AliStegnoProject">
         <activity
-            android:name=".checkbox_toggle_switch.CtsActivity"
-            android:exported="true" >
-
+            android:name=".login_register_screen_validation.DashBoardActivity"
+            android:exported="false" />
+        <activity
+            android:name=".login_register_screen_validation.AuthenticationActivity"
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-
         </activity>
         <activity
+            android:name=".checkbox_toggle_switch.CtsActivity"
+            android:exported="true"></activity>
+        <activity
             android:name=".data_binding.MyDataActivity"
-            android:exported="true">
-
-        </activity>
+            android:exported="true" />
         <activity
             android:name=".view_binding.MyBindActivity"
             android:exported="false" />
         <activity
             android:name=".pass_string_fragment.AnotherHolderActivity"
-            android:exported="true"></activity>
+            android:exported="true" />
         <activity
             android:name=".fragments.HolderActivity"
             android:exported="true" />

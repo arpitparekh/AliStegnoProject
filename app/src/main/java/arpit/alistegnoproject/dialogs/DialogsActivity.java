@@ -177,7 +177,6 @@ public class DialogsActivity extends AppCompatActivity {
 
                 builder.show();
 
-
             }
         });
     }

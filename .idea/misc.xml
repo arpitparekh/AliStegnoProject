@@ -15,6 +15,7 @@
         <entry key="app/src/main/res/layout/activity_login.xml" value="0.4" />
         <entry key="app/src/main/res/layout/activity_my_bind.xml" value="0.28958333333333336" />
         <entry key="app/src/main/res/layout/activity_my_data.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_my_menu.xml" value="0.28958333333333336" />
         <entry key="app/src/main/res/layout/activity_pune.xml" value="0.28958333333333336" />
         <entry key="app/src/main/res/layout/activity_second.xml" value="0.28958333333333336" />
         <entry key="app/src/main/res/layout/fragment_ahm.xml" value="0.28958333333333336" />
@@ -26,6 +27,7 @@
         <entry key="app/src/main/res/layout/layout_relative.xml" value="0.264" />
         <entry key="app/src/main/res/layout/linear_layout.xml" value="0.264" />
         <entry key="app/src/main/res/layout/my_dialog.xml" value="0.2875" />
+        <entry key="app/src/main/res/menu/my_menu.xml" value="0.2875" />
       </map>
     </option>
   </component>

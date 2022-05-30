@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:title="item 1"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_login"
+        android:id="@+id/item1"/>
+
+    <item
+        android:title="item2"
+        android:id="@+id/item2"/>
+
+    <item
+        android:title="item3"
+        android:id="@+id/item3"/>
+
+    <item
+        android:title="item4"
+        android:id="@+id/item4">
+
+        <menu>
+
+            <item
+                android:title="item5"
+                android:id="@+id/item5"/>
+
+            <item
+                android:title="item6"
+                android:id="@+id/item6"/>
+
+        </menu>
+
+
+    </item>
+
+</menu>

@@ -11,12 +11,15 @@
         <entry key="app/src/main/res/layout/activity_cts.xml" value="0.536" />
         <entry key="app/src/main/res/layout/activity_dialogs.xml" value="0.4" />
         <entry key="app/src/main/res/layout/activity_first.xml" value="0.264" />
+        <entry key="app/src/main/res/layout/activity_forget_password.xml" value="0.28958333333333336" />
         <entry key="app/src/main/res/layout/activity_holder.xml" value="0.28958333333333336" />
         <entry key="app/src/main/res/layout/activity_login.xml" value="0.4" />
+        <entry key="app/src/main/res/layout/activity_login2.xml" value="0.4" />
         <entry key="app/src/main/res/layout/activity_my_bind.xml" value="0.28958333333333336" />
         <entry key="app/src/main/res/layout/activity_my_data.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_my_menu.xml" value="0.28958333333333336" />
         <entry key="app/src/main/res/layout/activity_pune.xml" value="0.28958333333333336" />
+        <entry key="app/src/main/res/layout/activity_register.xml" value="0.4" />
         <entry key="app/src/main/res/layout/activity_second.xml" value="0.28958333333333336" />
         <entry key="app/src/main/res/layout/activity_select_image.xml" value="0.28958333333333336" />
         <entry key="app/src/main/res/layout/fragment_ahm.xml" value="0.28958333333333336" />

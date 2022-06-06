@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "926053367723",
+    "project_id": "alistegoproject",
+    "storage_bucket": "alistegoproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926053367723:android:37909eab4ee23b4016dcee",
+        "android_client_info": {
+          "package_name": "arpit.alistegnoproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926053367723-jf5c1jslrokk1sntf1so89k8rrted6sr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "arpit.alistegnoproject",
+            "certificate_hash": "d410abf82e931608878e7f22fd2ff339471aebac"
+          }
+        },
+        {
+          "client_id": "926053367723-v22c012s7iolpaccdnoeq4k202m076u3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD60_rdGtN4Wa1RJsicCQ59ai9jDd6-jEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926053367723-v22c012s7iolpaccdnoeq4k202m076u3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

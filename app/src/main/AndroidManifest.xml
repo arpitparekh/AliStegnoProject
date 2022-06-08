@@ -10,8 +10,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AliStegnoProject">
         <activity
-            android:name=".firebase_realtime.NoteListActivity"
+            android:name=".adapters.NoteListActivity"
             android:exported="true" >
+
+
+
+        </activity>
+        <activity
+            android:name=".firebase_realtime.NoteListActivity"
+            android:exported="true">
 
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -28,9 +35,7 @@
             android:exported="true" />
         <activity
             android:name=".firebase_authentication.LoginActivity"
-            android:exported="true">
-
-        </activity>
+            android:exported="true"></activity>
         <activity
             android:name=".select_image.SelectImageActivity"
             android:exported="true" />

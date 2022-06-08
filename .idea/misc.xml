@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="../../Android/Sdk/platforms/android-32/data/res/layout/simple_list_item_1.xml" value="0.28958333333333336" />
         <entry key="app/src/main/res/drawable/custom_shape.xml" value="0.136" />
         <entry key="app/src/main/res/drawable/ic_login.xml" value="0.247" />
         <entry key="app/src/main/res/layout/activity_ahmedabad.xml" value="0.264" />
@@ -19,6 +20,7 @@
         <entry key="app/src/main/res/layout/activity_my_data.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_my_menu.xml" value="0.28958333333333336" />
         <entry key="app/src/main/res/layout/activity_note_list.xml" value="0.264" />
+        <entry key="app/src/main/res/layout/activity_note_list2.xml" value="0.28958333333333336" />
         <entry key="app/src/main/res/layout/activity_pune.xml" value="0.28958333333333336" />
         <entry key="app/src/main/res/layout/activity_register.xml" value="0.4" />
         <entry key="app/src/main/res/layout/activity_second.xml" value="0.28958333333333336" />
@@ -32,6 +34,7 @@
         <entry key="app/src/main/res/layout/layout_relative.xml" value="0.264" />
         <entry key="app/src/main/res/layout/linear_layout.xml" value="0.264" />
         <entry key="app/src/main/res/layout/my_dialog.xml" value="0.2875" />
+        <entry key="app/src/main/res/layout/vehicle_type.xml" value="0.2875" />
         <entry key="app/src/main/res/menu/my_menu.xml" value="0.2875" />
       </map>
     </option>

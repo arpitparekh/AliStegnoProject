@@ -32,9 +32,8 @@ public class Note {
 
     @Override
     public String toString() {
-        return "Note{" +
-                "title='" + title + '\'' +
-                ", description='" + description + '\'' +
-                '}';
+        return "title= " + title +
+                "\ndescription='" + description;
+
     }
 }

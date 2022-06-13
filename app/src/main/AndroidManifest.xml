@@ -2,23 +2,20 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="arpit.alistegnoproject">
 
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_logo"
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_logo_round"
         android:supportsRtl="true"
+        android:requestLegacyExternalStorage="true"
         android:theme="@style/Theme.AliStegnoProject">
         <activity
-            android:name=".adapters.NoteListActivity"
+            android:name=".storage.ExternalStorageActivity"
             android:exported="true" >
-
-
-
-        </activity>
-        <activity
-            android:name=".firebase_realtime.NoteListActivity"
-            android:exported="true">
 
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -28,6 +25,17 @@
 
         </activity>
         <activity
+            android:name=".storage.InternalStorageActivity"
+            android:exported="true">
+
+        </activity>
+        <activity
+            android:name=".adapters.NoteListActivity"
+            android:exported="true" />
+        <activity
+            android:name=".firebase_realtime.NoteListActivity"
+            android:exported="true"></activity>
+        <activity
             android:name=".firebase_authentication.ForgetPasswordActivity"
             android:exported="false" />
         <activity
@@ -35,7 +43,7 @@
             android:exported="true" />
         <activity
             android:name=".firebase_authentication.LoginActivity"
-            android:exported="true"></activity>
+            android:exported="true" />
         <activity
             android:name=".select_image.SelectImageActivity"
             android:exported="true" />

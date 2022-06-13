@@ -115,7 +115,6 @@ public class NoteListActivity extends AppCompatActivity {
             }
         });
 
-
         ////////////////////  add and update data  /////////////////////////////
 
         binding.btnSend.setOnClickListener(new View.OnClickListener() {
@@ -164,11 +163,7 @@ public class NoteListActivity extends AppCompatActivity {
                     });
 
                     clear();
-
-
                 }
-
-
             }
         });
 

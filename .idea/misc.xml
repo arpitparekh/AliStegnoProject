@@ -12,6 +12,7 @@
         <entry key="app/src/main/res/layout/activity_cts.xml" value="0.536" />
         <entry key="app/src/main/res/layout/activity_dialogs.xml" value="0.4" />
         <entry key="app/src/main/res/layout/activity_external_storage.xml" value="0.4" />
+        <entry key="app/src/main/res/layout/activity_faculty_list.xml" value="0.28958333333333336" />
         <entry key="app/src/main/res/layout/activity_first.xml" value="0.264" />
         <entry key="app/src/main/res/layout/activity_forget_password.xml" value="0.28958333333333336" />
         <entry key="app/src/main/res/layout/activity_holder.xml" value="0.28958333333333336" />
@@ -27,6 +28,7 @@
         <entry key="app/src/main/res/layout/activity_register.xml" value="0.4" />
         <entry key="app/src/main/res/layout/activity_second.xml" value="0.28958333333333336" />
         <entry key="app/src/main/res/layout/activity_select_image.xml" value="0.28958333333333336" />
+        <entry key="app/src/main/res/layout/faculty_item_layout.xml" value="0.2875" />
         <entry key="app/src/main/res/layout/fragment_ahm.xml" value="0.28958333333333336" />
         <entry key="app/src/main/res/layout/fragment_first.xml" value="0.2671875" />
         <entry key="app/src/main/res/layout/fragment_login.xml" value="0.28958333333333336" />

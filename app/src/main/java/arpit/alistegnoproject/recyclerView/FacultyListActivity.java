@@ -28,7 +28,7 @@ public class FacultyListActivity extends AppCompatActivity {
 
         list = new ArrayList<>();
 
-        list.add(new Faculty("arpitgggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg","android","ahmedabad"));
+        list.add(new Faculty("arpit","android","ahmedabad"));
         list.add(new Faculty("rahul","java","ahmedabad"));
         list.add(new Faculty("jigar","python","surat"));
         list.add(new Faculty("jigar","python","surat"));
